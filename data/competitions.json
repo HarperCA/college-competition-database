@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "蓝桥杯全国软件和信息技术专业人才大赛",
+    "time": "每年3-6月",
+    "official_url": "https://dasai.lanqiao.cn",
+    "major": ["计算机科学与技术", "软件工程", "人工智能"],
+    "category": "计算机",
+    "level": "全国级",
+    "verified": true
+  },
+  {
+    "id": 2,
+    "name": "全国大学生数学建模竞赛",
+    "time": "每年9月",
+    "official_url": "https://www.mcm.edu.cn",
+    "major": ["数学", "计算机", "统计学"],
+    "category": "数学建模",
+    "level": "全国级",
+    "verified": true
+  },
+  {
+    "id": 3,
+    "name": "ACM国际大学生程序设计竞赛",
+    "time": "全年赛季",
+    "official_url": "https://icpc.global",
+    "major": ["计算机科学与技术", "软件工程"],
+    "category": "算法竞赛",
+    "level": "国际级",
+    "verified": true
+  }
+]
