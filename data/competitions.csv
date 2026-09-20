@@ -1,0 +1,6 @@
+id,name,time,official_url,major,category,level,organizer,verified
+1,全国大学生数学建模竞赛,每年9月,http://www.mcm.edu.cn,计算机科学与技术;数学;统计学;人工智能,数学建模,国家级,中国工业与应用数学学会,true
+2,蓝桥杯全国软件和信息技术专业人才大赛,每年报名周期以官网公布为准,https://dasai.lanqiao.cn,计算机科学与技术;软件工程;人工智能,程序设计,国家级,工业和信息化部人才交流中心,true
+3,ACM国际大学生程序设计竞赛,全年赛季,https://icpc.global,计算机科学与技术;软件工程,算法竞赛,国际级,ICPC Foundation,true
+4,中国国际大学生创新大赛,每年以官网通知为准,https://cy.ncss.cn,所有专业,创新创业,国家级,教育部,true
+5,全国大学生电子设计竞赛,每两年举办一次,http://www.nuedc.com.cn,电子信息;自动化;计算机,电子设计,国家级,教育部,true
